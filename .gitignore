@@ -1,0 +1,26 @@
+# Power BI Desktop — auto-generated cache files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Power BI legacy binary format (track PBIR folder-format instead)
+*.pbix
+*.abf
+
+# Windows OS files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor workspace files
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
