@@ -1,4 +1,4 @@
-# Sales Dashboard — Power BI PBIR Report
+# Sales Dashboard - Power BI PBIR Report 100% Using Native Visuals with Claude Cowork
 
 A multi-page financial sales dashboard built in **Power BI PBIR format** (open folder-based report structure), using the Microsoft Financial Sample dataset. The report covers revenue, profit, cost, and year-over-year performance across products, segments, and countries.
 
